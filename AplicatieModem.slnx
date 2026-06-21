@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AplicatieModem/AplicatieModem.csproj" />
+  <Project Path="Installer/Installer.csproj" Id="e2e36337-ab19-43fd-8552-a59714665465" />
+</Solution>

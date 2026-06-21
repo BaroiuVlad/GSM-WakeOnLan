@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Users>
+
+	<User>
+		<Name>Ion Popescu</Name>
+		<PhoneNumber>0777777777</PhoneNumber>
+		<MacAddress>98-EE-CB-F3-3A-51</MacAddress>
+	</User>
+
+	<User>
+		<Name>Maria Ionescu</Name>
+		<PhoneNumber>0722222222</PhoneNumber>
+		<MacAddress>AA:BB:CC:DD:EE:FF</MacAddress>
+	</User>
+
+</Users>
